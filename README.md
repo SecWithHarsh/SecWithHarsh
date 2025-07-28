@@ -20,17 +20,16 @@
 > A sample threat report tracking known actors — TTPs, IOCs, and sources  
 → [View Report](https://github.com/SecWithHarsh/reports/blob/main/checkpoint-research.md)
 
-🛠️ **Custom Portfolio Site** (Work in progress)  
-> Hacker-style design + CLI + admin panel  
-→ Hosted at: [yourdomain.me](https://yourdomain.me) *(Add this once ready)*
+🛠️ **Custom Portfolio Site**  
+> Hacker-style design + CLI 
+→ Hosted at: [secwithharsh.me](https://secwithharsh.me)
 
 ---
 
 ### 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/YOUR-USERNAME)  
-[🌐 My Portfolio Website](https://yourdomain.me)  
-[✉️ Contact: harsh.email@example.com](mailto:harsh.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/harsh-raj-secwithharsh)  
+[🌐 My Portfolio Website](https://secwithharsh.me)  
 
 ---
 
